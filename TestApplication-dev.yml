@@ -1,2 +1,5 @@
 owner:
   name: killer
+
+owner:
+  msg: msg from git repo
